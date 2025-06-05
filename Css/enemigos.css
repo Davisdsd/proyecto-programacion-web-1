@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+  }
+
+  header {
+    background-color: #2e2e2e;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #4caf50;
+    border-radius: 10px;
+  }
+
+  h1 {
+    margin: 0;
+    color: #4caf50;
+  }
+
+  .infec {
+    background-color: #2a2a2a;
+    margin: 20px 0;
+    padding: 15px;
+    border-left: 5px solid #4caf50;
+    border-radius: 10px;
+  }
+
+  .infec h2 {
+    color: #81c784;
+  }
+
+  .infec h3 {
+    margin-top: 30px;
+    color: #ff9800;
+  }
+
+  .infec p {
+    line-height: 1.6;
+  }
+
+  .infec img {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 2px solid #4caf50;
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #888;
+  }
+  .conte{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-top: 10px;
+
+  }
+  .inf{
+    border: 5px solid #307733;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 20px;
+
+  }
